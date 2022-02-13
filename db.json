@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jorge leon",
+      "empresa": "mia",
+      "email": "crashe24@hotmail.com",
+      "telefono": "022191013",
+      "notas": "cliente normal",
+      "id": 2
+    },
+    {
+      "nombre": "Martin Isaac Leon",
+      "empresa": "software libre",
+      "email": "martin3110@gmail.com",
+      "telefono": "0987033782",
+      "notas": "esta es una empresa de software",
+      "id": 3
+    },
+    {
+      "nombre": "jorge luis leon",
+      "empresa": "mia propia",
+      "email": "cradhe@gmail.com",
+      "telefono": "02166552",
+      "notas": " nuevo cliente",
+      "id": 4
+    }
+  ]
+}
